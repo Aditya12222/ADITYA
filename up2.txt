@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<style>
+
+		/* Styling the body element
+		like body color and margin */
+		
+		body {
+			background-color: #a77df4;
+			margin: 20%;
+		}
+
+		/* Styling the Title and giving
+		shadow to the title */     
+				text-align: center;
+			text-shadow: 5px 5px 10px white;
+			font-size: 7vh;
+		}
+
+		/* Setting width and display
+		type of image */
+		img {
+			display: inline-block;
+			width: 100%;
+		}
+
+		/* Setting font color and font
+		size of the image-caption */
+		#caption {
+			font-size: 17px;
+			font-family: Gill Sans;
+			color: black;
+		}
+
+		/* Styling the content of the page like-
+		padding, font-size, font color etc.*/
+		div#tribute-data {
+			background-color: rgba(74, 46, 139, 0.25);
+			box-shadow: 20px 20px 20px #189a18;
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+
+		/* Styling the title of the content */
+		h1.title-APJ {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px black;
+		}
+
+		/* Styling the link provided at the end */
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+		}
+	</style>
+</head>
+
+<body>
+	<main id="main">
+
+		<!-- Title of the page -->
+		<h1 id="title">
+            Chadwick Boseman 
+		</h1>
+
+		<div id="img">
+
+			<!--Image of the Tribute Person-->
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg/330px-Chadwick_Boseman_by_Gage_Skidmore_July_2017_%28cropped%29.jpg" id="image"
+				alt="Error Loading Image">
+			<small id="caption">
+				Chadwick Aaron Boseman (/ˈboʊzmən/;[5] November 29, 1976[a] – August 28, 2020) was an American actor. During his two-decade career, Boseman received two Screen Actors Guild Awards, a Golden Globe Award, a Critics' Choice Movie Award, and a Primetime Emmy Award, among other accolades. He was also nominated for an Academy Award.
+			</small>
+		</div>
+
+		<div id="tribute-data">
+
+			<!--Achievements and other
+				details of the person-->
+			<h1 class="title-paul">
+				career
+			</h1>
+
+			
+
+<p>
+    
+	👉2000–2007: Theater, Deep Azure, and early television
+	Boseman lived in Brooklyn, New York City, at the start of his career.[15] In 2000, he was named a Drama League Directing Fellow. He directed productions including George C. Wolfe's The Colored Museum[23][31] (Wolfe would later direct Boseman in his final role)[32] and a staging of Amiri Baraka's Dutchman.[23] He worked as the drama instructor in the Schomburg Junior Scholars Program, housed at the Schomburg Center for Research in Black Culture in Harlem between 2002 and 2009.[7][33]
+	👉2008–2015: Breakthrough with 42 and Get on Up
+	In 2008, Boseman moved to Los Angeles to pursue his film and acting career.[26] He was cast in a recurring role on the television series Lincoln Heights as Nathaniel Ray Taylor, an army veteran with PTSD who was later revealed to be the son of the main character before re-enlisting.[49] He also appeared in his first feature film in 2008, The Express: The Ernie Davis Story, as running back Floyd Little.[50] He landed his first regular role in the 2010 television series Persons Unknown as the Marine Graham McNair.[51] The show received mediocre reviews that felt the characters were all archetypes with little development.[52][53] In July 2013, Boseman's second short film as director, Heaven, premiered at the HollyShorts Film Festival.[54]
+	👉2016–2019: Marvel Cinematic Universe, Marshall and 21 Bridges
+	A man and woman sitting behind a panel desk, the man is laughing and the woman smiling.
+	Boseman and Black Panther co-star Lupita Nyong'o at the 2017 San Diego Comic-Con
+	In 2016, Boseman began portraying the Marvel Comics character T'Challa / Black Panther in the Marvel Cinematic Universe. Captain America: Civil War was his first film in a five-picture deal with Marvel Entertainment.[79][80] He did not audition for the role, instead having a "discussion about what [Marvel] wanted to do and how [he] saw it and what [he] wanted to do."[81] While working on Civil War, Boseman learned some Xhosa from John Kani, who played his father, and insisted on using the language for the character.[44] Boseman also developed a Wakandan accent himself, and used it during the entire production "whether he was on camera or not".[82] When asked by journalist Ryan Gilbey if he felt pressure not to "screw up" the beloved comics character, Boseman responded by saying: "It's more positive than that. It's more like: 'Seize it. Enjoy it.'"[83] He told the Associated Press, though, that he more identified with the Black Panther's nemesis, Killmonger, knowing that his roots to his African past had been severed.[28] Producer Kevin Feige explained that the Black Panther was included in Civil War "because [they] needed a third party. [It] needed fresh eyes [of a character] who wasn't embedded with the Avengers and who has a very different point of view than either Tony or Steve."[84][85] Boseman's performance in Civil War was highly praised, though critics acknowledged the character's inclusion was largely to set up his upcoming headlining movie.[86]
+	👉2020: Da 5 Bloods and Ma Rainey's Black Bottom
+	In 2019 Boseman was announced as part of the cast for the Netflix films Da 5 Bloods, directed by Spike Lee, and Ma Rainey's Black Bottom, directed by George C. Wolfe.[121][122] He took these "bucket-list roles" for opportunities to work with Lee and with Ma Rainey producer Denzel Washington, as well as the opportunity to perform in an August Wilson play, telling Entertainment Weekly that he wanted to make these non-superhero films because "if you don't do the films that you plan to do, I think you wouldn't feel fulfilled as an artist."[122] He was also cast in a film telling the story of Yasuke, the only non-Asian samurai and the first black man in Japan, which he was set to co-produce; Boseman said: "[the story is] not just an action movie, [it is] a cultural event, an exchange, and I am excited to be part of it."[123] Time included Boseman on their list of the 10 Best Movie Performances of 2020, for both Da 5 Bloods and Ma Rainey;[124] for Ma Rainey, Boseman received posthumous nominations in the Best Actor category at the Academy Awards, British Academy Film Awards, Golden Globe Awards, and Screen Actors Guild Awards,[125] becoming the eighth person (and seventh man) to receive a posthumous Academy Award acting nomination
+	👉Illness and death
+	Boseman was diagnosed with stage III colon cancer in 2016, which eventually progressed to stage IV before 2020.[8] He never spoke publicly about his cancer diagnosis, and according to The Hollywood Reporter, "Only a handful of non-family members knew that Boseman was sick... with varying degrees of knowledge about the severity of [his] condition."[159] During treatment, involving multiple surgeries and chemotherapy, he continued to work and completed production for several films, including Marshall, Da 5 Bloods, Ma Rainey, and others.
+
+				<br><br><br>
+			</p>
+
+
+		</div>
+		<br>
+		 For more information,
+		check out
+		<a id="tribute-link" href="#">
+			<b>CHADWICK BOSEMEN</b> on Wikipedia. [
+			<small>Developed by @<a href="#">
+					aditya.</a></a>
+		</small>]
+	</main>
+</body>
+
+</html><!DOCTYPE html>
+<html lang="en">
